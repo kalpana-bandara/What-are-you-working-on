@@ -17,6 +17,6 @@ Note : Python should be installed on your computer -  https://www.python.org/dow
 
 # App Screenshot
 
-![work tracker](https://freeimage.host/i/KTEHbSI?raw=true "work tracker")
+![work tracker](https://iili.io/KTEHbSI.png?raw=true "work tracker")
 
 

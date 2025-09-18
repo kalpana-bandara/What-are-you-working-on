@@ -15,6 +15,11 @@ Note : Python should be installed on your computer -  https://www.python.org/dow
 1. Open worker.pyw with notepad or code editor.
 2. Edit line number 18 - INTERVAL_MINUTES = your_prefered_interval_in_minutes and save
 
+# How to change Start time and End time
+
+1. Open worker.pyw with notepad or code editor.
+2. Edit line number 16 and 17.
+
 # App Screenshot
 
 ![work tracker](https://iili.io/KTEHbSI.png?raw=true "work tracker")

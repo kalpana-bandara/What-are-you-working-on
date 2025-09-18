@@ -1,5 +1,5 @@
 # What-are-you-working-on
-A simple desktop app which runs in background and shows a popup up every interval (hour, minute) asking to enter "What are you working on ?". You will be able to see all the work logs at the end of the day and manually enter the entries to your time logging app. No more memorizing.
+A simple desktop app which runs in background and shows a popup up every interval (preferred time) asking to enter "What are you working on ?". You will be able to see all the work logs at the end of the day and manually enter the entries to your time logging app. No more memorizing.
 
 # How to run the app
 

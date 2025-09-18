@@ -17,7 +17,7 @@ Note : Your work logs will be saved to "work_log" file inside the app folder.
 1. Open worker.pyw with notepad or code editor.
 2. Edit line number 18 - INTERVAL_MINUTES = your_prefered_interval_in_minutes and save
 
-# How to change Start time and End time (The popup will trigger starting at the configured start time.)
+# How to change start time and end time (popup will trigger starting at the configured start time.)
 
 1. Open worker.pyw with notepad or code editor.
 2. Edit line number 16 and 17.
